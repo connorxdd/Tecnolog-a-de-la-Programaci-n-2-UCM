@@ -1,0 +1,3 @@
+GROUPO/GROUP : Zapdos
+NOMBRE/NAME 1: Daniel Candil Vizcaíno
+NOMBRE/NAME 2: Mario Sánchez de Paz
